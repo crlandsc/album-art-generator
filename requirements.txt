@@ -1,0 +1,11 @@
+fastai
+diffusers
+transformers
+fastcore
+huggingface-hub
+accelerate
+scipy
+safetensors
+xformers
+ipykernel
+ipywidgets
