@@ -9,7 +9,6 @@ venv/
 logs/
 .vscode/
 *Zone.Identifier
-percussion/
 archive/
 ignore/
 
