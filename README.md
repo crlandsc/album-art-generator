@@ -21,7 +21,7 @@ This notebook consists of the following functionalities:
 |Upscale Images|512x512 --> 2048x2048|Upscale images to increase resolution (upscaling higher resolution images requires more GPU VRAM)|
 |Stepped Image Generation|768x768|Visualize various steps of the diffusion process|
 |Image to Image Generation|768x768|Generate images from a text prompt and condition on an input image|
-|Image Resizing Utility (no diffusion)|Any|Simple image resizing utility that does not affect resolution of the image|
+|Image Resizing Utility (no diffusion)|Any|Simple image resizing utility that does not affect the resolution of the image|
 
 ---
 
